@@ -30,13 +30,13 @@ Before running the application, ensure you have the following installed:
 ### 1. Clone the repository:
 
 ```bash
-git clone <repository-url>
-cd <repository-name>
+git clone 
+cd backend job_portal
 ```
 From the backend directory, run the following command to start the server:
 
 ```bash
-npm start
+node database.js
 ```
 The backend server will be running at http://localhost:5000.
 
@@ -44,7 +44,7 @@ Running the React App
 1. Navigate to the React app directory:
 ```bash
 
-cd <react-app-directory>
+cd assignment
 ```
 2. Install dependencies:
 Run the following command to install the necessary packages:
@@ -56,7 +56,7 @@ npm install
 After the installation is complete, start the React development server:
 ```
 bash
-npm start
+npm run dev
 ```
 The React app will be running at http://localhost:5173.
 
