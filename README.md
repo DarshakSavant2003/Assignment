@@ -30,7 +30,7 @@ Before running the application, ensure you have the following installed:
 ### 1. Clone the repository:
 
 ```bash
-git clone 
+git clone https://github.com/DarshakSavant2003/Assignment.git
 cd backend job_portal
 ```
 From the backend directory, run the following command to start the server:
